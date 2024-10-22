@@ -1,0 +1,16 @@
+{
+    "name": "IA-Censupeg",
+    "short_name": "App",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#000000",
+    "icons": [
+      {
+        "src": "icon.png",
+        "sizes": "192x192",
+        "type": "icons/Icon-192.png"
+      }
+    ]
+  }
+  
